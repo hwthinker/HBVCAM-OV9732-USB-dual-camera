@@ -1,4 +1,6 @@
 *.jpg
 *.png
+!assets/*.jpg
+!assets/*.png
 __pycache__/
 *.pyc
