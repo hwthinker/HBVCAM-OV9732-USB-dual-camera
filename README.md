@@ -1,5 +1,7 @@
 # USB Dual / Stereo Camera Viewer
 
+![c1ccff98-c720-43e3-ad94-d9bccff442f3](./assets/c1ccff98-c720-43e3-ad94-d9bccff442f3-1792545748233-2.png)
+
 Viewer untuk kamera stereo side-by-side **HBVCAM-W2280U3-2 V22 / Gearway OV9732** (USB ID `15aa:1555`) dan kamera sejenis.  
 Kamera mengirim satu frame lebar yang menggabungkan gambar kiri dan kanan secara berdampingan (**side-by-side**); program ini membelah frame tersebut menjadi dua tampilan terpisah.
 
